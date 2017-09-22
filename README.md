@@ -21,7 +21,7 @@
 * Spa
 * Модули
 * Компонентный подход
-* Fetch (isomorphic)[https://github.com/frontend-park-mail-ru/2017_1_Ananymous/blob/master/public/modules/Transport/Transport.js]
+* Fetch [isomorphic](https://github.com/frontend-park-mail-ru/2017_1_Ananymous/blob/master/public/modules/Transport/Transport.js)
 * Pug
 * Nodejs в качестве сервера для обработки данных
 
